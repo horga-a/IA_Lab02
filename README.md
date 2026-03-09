@@ -67,11 +67,6 @@ ia-lab02-numpy-pandas/
 
 ## 1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/ia-lab02-numpy-pandas.git
-cd ia-lab02-numpy-pandas
-```
-
 ## 2. Create a virtual environment
 
 ```bash
